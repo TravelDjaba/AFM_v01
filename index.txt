@@ -1,6 +1,2 @@
 
-<<<<<<< HEAD
 branch new_f
-=======
-branch master
->>>>>>> master
