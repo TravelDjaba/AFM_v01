@@ -117,6 +117,7 @@ begin
     begin
     lboxLog.Items.Clear;
     FindPorts;
+	//FindPorts;
     len:=Length(CPort.PortList);
 
     if len>0 then
